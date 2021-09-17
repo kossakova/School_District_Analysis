@@ -33,6 +33,7 @@ In this analysis we performed following tasks:
 
 ### District Summary 
 Here we have two different analysis outputs for original data which includes Thomas High School ninth grade data and second which excludes Thomas High School. Our analysis did not have many differences since number of students we excluded was not significant comparing to total of 39170 students in all Student District.
+![New_DistrictlSummary](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/New_DistrictlSummary..png)
 
 ### School Summary 
 Along with District Summary our school summary was not impacted significantly. 
