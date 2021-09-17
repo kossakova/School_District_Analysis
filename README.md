@@ -33,12 +33,17 @@ In this analysis we performed following tasks:
 
 ### District Summary 
 Here we have two different analysis outputs for original data which includes Thomas High School ninth grade data and second which excludes Thomas High School. Our analysis did not have many differences since number of students we excluded was not significant comparing to total of 39170 students in all Student District.
-![New_DistrictlSummary](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/New_DistrictlSummary..png)
+![New_DistrictlSummary](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/New_DistrictlSummary.png)
+![Org_DistrictlSummary](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/Org_DistrictSummary.png)
+
 
 ### School Summary 
 Along with District Summary our school summary was not impacted significantly. 
+![school_summary_before](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/school_summary_before.png)
 
-As shown in following images there were no significant difference to overall performance relative to other schools. 
+![school_summary_after](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/school_summary_after.png)
+
+As shown above in following images there were no significant difference to overall performance relative to other schools. 
 
 Data alteration relativity to Math and Reding scores.
 As we dropped ninth grade students scores for math and reading subjects, those students scores were replaced by NaN and were not counted. 
