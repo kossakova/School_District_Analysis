@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 In this module we worked with Maria, the chief scientist for city schools. 
 We were responsible for preparing all standardized test date for analysis to provide insights about performance trends and patterns. 
 
