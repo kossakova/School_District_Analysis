@@ -55,6 +55,7 @@ Here we have two different analysis outputs for the original data which includes
 Along with District Summary our school summary was not impacted significantly. 
 
 
+
 ![school_summary_before](https://github.com/kossakova/School_District_Analysis/blob/main/Analysis%20Images/school_summary_before.png)
 
 
